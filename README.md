@@ -22,6 +22,10 @@
 4、完整回测
 5、开启实盘
 
+其他说明
+websock价格订阅
+所有K线均是已收盘K线，无任何未来函数，close 在回测中代表收盘，在实盘中代表实时价格 close = websock 价格（毫秒级推送）
+
 <img width="655" height="681" alt="image" src="https://github.com/user-attachments/assets/7e668819-064a-4c8b-af5a-d31b9b49f0c2" />
 <img width="662" height="687" alt="image" src="https://github.com/user-attachments/assets/c059565c-a57f-4913-a87a-9d10fbd6068c" />
 <img width="1200" height="820" alt="image" src="https://github.com/user-attachments/assets/1818eb3a-8daa-480d-aa15-3b7d3c86f3ac" />
@@ -31,6 +35,9 @@
 <img width="479" height="1252" alt="image" src="https://github.com/user-attachments/assets/f45cc73e-b12e-40f4-a58c-6291349e0a91" />
 
 <img width="542" height="1354" alt="image" src="https://github.com/user-attachments/assets/a3ad3eba-c6dc-4ca3-a7cd-242437793f86" />
+<img width="1556" height="1189" alt="image" src="https://github.com/user-attachments/assets/5f245949-e625-471a-891f-ea8b7c3a4106" />
+<img width="1556" height="1189" alt="image" src="https://github.com/user-attachments/assets/9e952a49-d5b6-4526-9692-a12aa4873a2c" />
 
 
 <img width="2635" height="1414" alt="image" src="https://github.com/user-attachments/assets/aec6a147-03f4-475e-aaed-a52ef1df9107" />
+<img width="2560" height="1377" alt="image" src="https://github.com/user-attachments/assets/141ce418-b320-460b-9b6e-7c7f3dce4323" />
