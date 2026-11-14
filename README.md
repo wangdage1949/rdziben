@@ -39,6 +39,8 @@ websock价格订阅
 <img width="1556" height="1189" alt="image" src="https://github.com/user-attachments/assets/5f245949-e625-471a-891f-ea8b7c3a4106" />
 <img width="1556" height="1189" alt="image" src="https://github.com/user-attachments/assets/9e952a49-d5b6-4526-9692-a12aa4873a2c" />
 
+<img width="1920" height="1112" alt="image" src="https://github.com/user-attachments/assets/6ed8fc5b-0747-4e9a-81b0-8da8655bc819" />
+<img width="1920" height="1112" alt="image" src="https://github.com/user-attachments/assets/2e058fe3-d2ab-4ba4-9940-5ac4396bede4" />
 
 <img width="2635" height="1414" alt="image" src="https://github.com/user-attachments/assets/aec6a147-03f4-475e-aaed-a52ef1df9107" />
 <img width="2560" height="1377" alt="image" src="https://github.com/user-attachments/assets/141ce418-b320-460b-9b6e-7c7f3dce4323" />
