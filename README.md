@@ -48,6 +48,17 @@ websock价格订阅
 
 所有K线均是已收盘K线，无任何未来函数，close 在回测中代表收盘，在实盘中代表实时价格 close = websock 价格（毫秒级推送）
 
+<img width="1541" height="784" alt="image" src="https://github.com/user-attachments/assets/3f4290c9-47c0-4349-9264-686a5a2c8249" />
+
+<img width="1456" height="801" alt="image" src="https://github.com/user-attachments/assets/1ae3eac9-3cde-428d-a51c-7676c75bdf98" />
+
+<img width="857" height="481" alt="image" src="https://github.com/user-attachments/assets/662e74d9-a6db-4a36-8ff2-ac593e222356" />
+
+<img width="1537" height="788" alt="image" src="https://github.com/user-attachments/assets/2c1d7b95-8853-4ce8-a170-19fb43e4eea7" />
+
+<img width="1527" height="794" alt="image" src="https://github.com/user-attachments/assets/42ed1846-0610-4f05-b6d3-0f71c30368e8" />
+
+<img width="1557" height="806" alt="image" src="https://github.com/user-attachments/assets/61e8be83-ba21-42c8-9efa-6a7665cdfc05" />
 
 <img width="655" height="681" alt="image" src="https://github.com/user-attachments/assets/7e668819-064a-4c8b-af5a-d31b9b49f0c2" />
 <img width="662" height="687" alt="image" src="https://github.com/user-attachments/assets/c059565c-a57f-4913-a87a-9d10fbd6068c" />
