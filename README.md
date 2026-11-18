@@ -47,6 +47,19 @@
 websock价格订阅
 
 所有K线均是已收盘K线，无任何未来函数，close 在回测中代表收盘，在实盘中代表实时价格 close = websock 价格（毫秒级推送）
+
+
+<img width="1920" height="1200" alt="合并动图" src="https://github.com/user-attachments/assets/5d9ad04e-cbed-4a21-b61e-86b57b36d8bc" />
+
+<img width="1920" height="1200" alt="合并动图2" src="https://github.com/user-attachments/assets/3d020a5e-f121-42c1-99fb-fce06c006c53" />
+
+<img width="1920" height="1200" alt="合并动图4" src="https://github.com/user-attachments/assets/b89a9940-3ffa-4baa-96d1-c2f943dccb17" />
+
+<img width="1920" height="1200" alt="合并动图5" src="https://github.com/user-attachments/assets/de8e6f56-0198-4c21-9b6c-0f75c0734acc" />
+
+
+
+
 <img width="1711" height="954" alt="image" src="https://github.com/user-attachments/assets/cc19f63e-fde2-4977-8150-f673413b3da8" />
 
 
