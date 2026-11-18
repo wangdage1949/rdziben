@@ -1,66 +1,18 @@
 # 仁达量化-RDLH
 
-仁达量化交易软件持续更新中，请留关注本项目
+开放。智能。精准
 
-仁达量化交易软件的优势：
-
-1、免费会员支持10个指标同时显示
-
-2、回测实盘1比1
-
-3、5年比特币回测，首次只要9小时，二次只要20分钟，颗粒度1分钟。
-
-4、支持自定义任意音频、支持7大交易所、支持AI编写指标，支持AI编写策略。
-
-5、回测会导出全周期全量指标缓存到本地，AI学习友好度极高，开放性极强。
-
-6、支持中文、简体中文、英文、日语、法语、德语、日语、韩语
-
-7、支持多窗模式，支持多窗回测模式
-
-8、支持30+国内外AI模型
-
-9、支持手动标记开仓，支持导出开仓前5根K线的全周期全量指标缓存，支持导出CSV,HTML报告。
-
-10、支持语音播报，支持AI下单，支持自定义新闻源。
-
-11、AI完整接入实盘，支持AI完整控制软件。
-
-12、一键安装，无需额外配置。
-
-13、已支持windows/mos 两个版本。
-
-完整流程
-
-1、添加品种→选择交易所→选择品种→下载K线
-
-2、编写指标
-
-3、编写策略
-
-4、完整回测
-
-5、开启实盘
-
-其他说明
-
-websock价格订阅
-
-所有K线均是已收盘K线，无任何未来函数，close 在回测中代表收盘，在实盘中代表实时价格 close = websock 价格（毫秒级推送）
-
-
-<img width="1920" height="1200" alt="合并动图" src="https://github.com/user-attachments/assets/5d9ad04e-cbed-4a21-b61e-86b57b36d8bc" />
-
-<img width="1920" height="1200" alt="合并动图2" src="https://github.com/user-attachments/assets/3d020a5e-f121-42c1-99fb-fce06c006c53" />
-
-<img width="1920" height="1200" alt="合并动图4" src="https://github.com/user-attachments/assets/b89a9940-3ffa-4baa-96d1-c2f943dccb17" />
+<img width="1711" height="954" alt="image" src="https://github.com/user-attachments/assets/cc19f63e-fde2-4977-8150-f673413b3da8" />
 
 <img width="1920" height="1200" alt="合并动图5" src="https://github.com/user-attachments/assets/de8e6f56-0198-4c21-9b6c-0f75c0734acc" />
 
+<img width="1920" height="1200" alt="合并动图4" src="https://github.com/user-attachments/assets/b89a9940-3ffa-4baa-96d1-c2f943dccb17" />
+
+<img width="1920" height="1200" alt="合并动图2" src="https://github.com/user-attachments/assets/3d020a5e-f121-42c1-99fb-fce06c006c53" />
+
+<img width="1920" height="1200" alt="合并动图" src="https://github.com/user-attachments/assets/5d9ad04e-cbed-4a21-b61e-86b57b36d8bc" />
 
 
-
-<img width="1711" height="954" alt="image" src="https://github.com/user-attachments/assets/cc19f63e-fde2-4977-8150-f673413b3da8" />
 
 
 <img width="1541" height="784" alt="image" src="https://github.com/user-attachments/assets/3f4290c9-47c0-4349-9264-686a5a2c8249" />
