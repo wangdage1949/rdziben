@@ -2,18 +2,12 @@
 
 开放。智能。精准
 
+# 开放
+
+1、支持对接任意交易所
+
+
 <img width="1711" height="954" alt="image" src="https://github.com/user-attachments/assets/cc19f63e-fde2-4977-8150-f673413b3da8" />
-
-<img width="1920" height="1200" alt="合并动图5" src="https://github.com/user-attachments/assets/de8e6f56-0198-4c21-9b6c-0f75c0734acc" />
-
-<img width="1920" height="1200" alt="合并动图4" src="https://github.com/user-attachments/assets/b89a9940-3ffa-4baa-96d1-c2f943dccb17" />
-
-<img width="1920" height="1200" alt="合并动图2" src="https://github.com/user-attachments/assets/3d020a5e-f121-42c1-99fb-fce06c006c53" />
-
-<img width="1920" height="1200" alt="合并动图" src="https://github.com/user-attachments/assets/5d9ad04e-cbed-4a21-b61e-86b57b36d8bc" />
-
-
-
 
 <img width="1541" height="784" alt="image" src="https://github.com/user-attachments/assets/3f4290c9-47c0-4349-9264-686a5a2c8249" />
 
@@ -28,3 +22,10 @@
 <img width="1557" height="806" alt="image" src="https://github.com/user-attachments/assets/61e8be83-ba21-42c8-9efa-6a7665cdfc05" />
 
 
+<img width="1920" height="1200" alt="合并动图5" src="https://github.com/user-attachments/assets/de8e6f56-0198-4c21-9b6c-0f75c0734acc" />
+
+<img width="1920" height="1200" alt="合并动图4" src="https://github.com/user-attachments/assets/b89a9940-3ffa-4baa-96d1-c2f943dccb17" />
+
+<img width="1920" height="1200" alt="合并动图2" src="https://github.com/user-attachments/assets/3d020a5e-f121-42c1-99fb-fce06c006c53" />
+
+<img width="1920" height="1200" alt="合并动图" src="https://github.com/user-attachments/assets/5d9ad04e-cbed-4a21-b61e-86b57b36d8bc" />
