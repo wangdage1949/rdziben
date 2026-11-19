@@ -4,7 +4,7 @@
 
 # 开放
 
-1、支持对接任意交易所
+https://www.youtube.com/watch?v=d5PAx_w0khI
 
 
 <img width="1711" height="954" alt="image" src="https://github.com/user-attachments/assets/cc19f63e-fde2-4977-8150-f673413b3da8" />
